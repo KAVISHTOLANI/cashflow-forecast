@@ -2,7 +2,7 @@
 
 A cash-flow forecast: start from today’s balance, add income and costs with their real schedules, and see the projected balance day by day — the lowest point, days under your safety buffer, a ledger with running balance, and what changes if you switch something off. Not financial advice.
 
-**Live demo:** [https://flowline.vercel.app/](https://flowline.vercel.app/) — runs entirely in your browser; demo data is fictional and labelled.
+**Live demo:** [https://flowline-forecast.vercel.app/](https://flowline-forecast.vercel.app/) — runs entirely in your browser; demo data is fictional and labelled.
 
 ![Landing with a 90-day forecast](docs/landing.png)
 
